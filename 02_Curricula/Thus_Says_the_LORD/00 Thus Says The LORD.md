@@ -127,7 +127,7 @@ Developed from the ChatGPT project conversation *Designing Prophets Curriculum* 
 
 ## Connections
 
-- [[Curricula MOC]]
+- [[Curricula_MOC|Curricula MOC]]
 - [[Five Echoes]]
 - [[Embody the Voice]]
 - [[Biblical Theology MOC]]

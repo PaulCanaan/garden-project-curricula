@@ -81,4 +81,4 @@ For a new ministry, first name what has already been given (**receive**), study 
 - [[Creation]]
 - [[New Creation]]
 - [[Seed-Form Typology]]
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]

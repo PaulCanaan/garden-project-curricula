@@ -19,7 +19,7 @@ Reusable experiential activities from the [[00 Planted|Planted curriculum]]. Eac
 | [[Dartboard]] | Devil Not Today — sin and brokenness | Feel the difference between aiming, distance, and impaired sight | Gospel diagnosis; [[Grace Truth Matrix]] |
 | [[Storytelling]] | Breakdown Is the Beginning of Breakthrough | Tell personal testimony and connect it to Jesus' story | [[Gospel Flow]] |
 | [[Learning to Handstand in 5 Minutes]] | See the Other Side — kingdom and resurrection | Experience a shift in perspective | [[Already Not Yet]] |
-| [[The Bond]] | From Planted to Plant — church and mission | Compare centralized and interdependent patterns of connection | [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]; [[PLANT]] |
+| [[The Bond]] | From Planted to Plant — church and mission | Compare centralized and interdependent patterns of connection | [[Know Grow Go|Know Grow Go]]; [[PLANT]] |
 
 ## Facilitation commitments
 

@@ -8,7 +8,7 @@ updated: 2026-07-28
 
 # Bible Study Curricula
 
-Scripture-centered formation journeys developed within [[00 Curricula Library|The Garden Project's Curricula Library]]. Each curriculum should help participants read the Bible as the unified story of God's work in Christ and inhabit that story through worship, community, practice, and mission.
+Scripture-centered formation journeys developed within [[Curricula_Library|The Garden Project's Curricula Library]]. Each curriculum should help participants read the Bible as the unified story of God's work in Christ and inhabit that story through worship, community, practice, and mission.
 
 ## Curricula
 

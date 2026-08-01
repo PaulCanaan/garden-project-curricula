@@ -93,7 +93,7 @@ Distributed networks are not automatically healthier than centralized structures
 - [[Church]]
 - [[Community]]
 - [[Unity]]
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]
 - [[PLANT]]
 - [[00 Planted. Programs]]
 

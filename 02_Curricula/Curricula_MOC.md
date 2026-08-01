@@ -67,8 +67,8 @@ Shorter does not mean simplified beyond coherence; deeper does not mean content-
 
 ## Reusable and signature assets
 
-- [[Frameworks MOC|Frameworks]] are curriculum-independent thinking and formation tools.
-- [[Programs MOC|Programs]] create memorable embodied experiences.
+- [[Frameworks_MOC|Frameworks]] are curriculum-independent thinking and formation tools.
+- [[Programs_MOC|Programs]] create memorable embodied experiences.
 - [[Workshops MOC|Workshops]] are focused formation experiences that may accompany a curriculum.
 - [[00 CoJourner Program|CoJourner]] supplies the common relational practice through which any curriculum can be inhabited.
 
@@ -92,8 +92,8 @@ Each curriculum retains signature assets. *Planted.* uses the most programs and 
 
 ## Operational index
 
-- [[00 Curricula Library]] — source-of-truth rules, portfolio, and publishing relationship
-- [[00 Bible Study Curricula]] — curriculum inventory and standards
+- [[Curricula_Library|Curricula Library]] — source-of-truth rules, portfolio, and publishing relationship
+- [[00_Bible_Study_Curricula|Bible Study Curricula]] — curriculum inventory and standards
 - [[54 Curriculum Template]] — reusable curriculum design form
 - [[03 Publishing and Stewardship Pipeline]] — approval and publication lifecycle
 

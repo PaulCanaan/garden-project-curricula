@@ -106,7 +106,7 @@ Covenant creates a people whose identity and shared life display God's character
 
 ## Ministry and publication
 
-This folder is the internal master curriculum in [[00 Bible Study Curricula|the Bible Study Curricula library]]. It belongs to [[00 The Garden Project Ministry|The Garden Project]] and is a candidate for a distinct leader guide and participant edition. Its prior Google and Notion forms are source and sharing history; they do not by themselves constitute a Garden Project publication.
+This folder is the internal master curriculum in [[00_Bible_Study_Curricula|the Bible Study Curricula library]]. It belongs to [[00 The Garden Project Ministry|The Garden Project]] and is a candidate for a distinct leader guide and participant edition. Its prior Google and Notion forms are source and sharing history; they do not by themselves constitute a Garden Project publication.
 
 Before public release, complete the gates in [[03 Publishing and Stewardship Pipeline]], pilot the integrated five-session version, document revisions, and prepare facilitator safeguards and participant-facing materials. [[00 CoJourner Program|CoJourners]] may eventually facilitate the study after appropriate apprenticeship and local oversight.
 

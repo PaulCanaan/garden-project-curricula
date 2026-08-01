@@ -84,4 +84,4 @@ A group studying forgiveness does more than explain the doctrine. It names parti
 - [[Beholding]]
 - [[Becoming]]
 - [[Building A House]] — experiential entrance into Foundation → Frame → Dwelling
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]

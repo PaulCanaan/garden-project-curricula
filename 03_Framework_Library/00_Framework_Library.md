@@ -10,9 +10,9 @@ updated: 2026-07-28
 
 Reusable models for understanding Scripture, guiding formation, making decisions, and designing teaching. A framework is a tool, not the truth itself: use it when it clarifies reality, and set it aside when it begins to flatten mystery or replace wise judgment.
 
-Interpretive map: [[Frameworks MOC]]
+Interpretive map: [[Frameworks_MOC|Frameworks MOC]]
 
-This library is the internal source for frameworks used across [[00 Bible Study Curricula|curricula]], [[00 Program Library|programs]], [[00 Workshop Library|workshops]], and [[00 CoJourner Program|CoJourner formation]]. Public teaching editions are eventually stewarded by [[00 The Garden Project Ministry|The Garden Project]].
+This library is the internal source for frameworks used across [[00_Bible_Study_Curricula|curricula]], [[00_Program_Library|programs]], [[00 Workshop Library|workshops]], and [[00 CoJourner Program|CoJourner formation]]. Public teaching editions are eventually stewarded by [[00 The Garden Project Ministry|The Garden Project]].
 
 ## Biblical story and theological integration
 
@@ -27,7 +27,7 @@ This library is the internal source for frameworks used across [[00 Bible Study 
 
 - [[Belonging Beholding Becoming]] — formation through covenant identity, attention to Christ, and Spirit-enabled transformation
 - [[Faith Muscle]] — train trust through small, repeated acts of dependence and obedience
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]] — know God, grow into Christlikeness and purpose, and go in love and mission
+- [[Know Grow Go|Know Grow Go]] — know God, grow into Christlikeness and purpose, and go in love and mission
 - [[Embody the Voice]] — bear witness through discernment, compassion, truthful speech, Kingdom life, and hope
 
 ## Interpretation, discernment, and action
@@ -46,7 +46,7 @@ This library is the internal source for frameworks used across [[00 Bible Study 
 - **Tracing temple and mission:** [[T2T]], supported by [[Seed-Form Typology]] and [[Already Not Yet]]
 - **Designing formation:** [[Belonging Beholding Becoming]], [[Faith Muscle]], [[Garden Framework]], or [[Embody the Voice]] for Christian witness
 - **Practicing faithful knowing:** [[HABITS]], [[Grace Truth Matrix]], or [[Ontology Eschatology Matrix]]
-- **Planning discipleship:** [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]], [[Garden Framework]], or [[PLANT]]
+- **Planning discipleship:** [[Know Grow Go|Know Grow Go]], [[Garden Framework]], or [[PLANT]]
 - **Making a pastoral or ethical decision:** [[Grace Truth Matrix]] or [[Ontology Eschatology Matrix]]
 - **Designing a curriculum or program:** combine one story framework, one formation framework, and one action framework
 
@@ -88,4 +88,4 @@ A framework becomes a public resource only when its claims, limits, examples, at
 ## Create and develop
 
 - [[60 Framework Template|Framework Template]]
-- [[Frameworks MOC]]
+- [[Frameworks_MOC|Frameworks MOC]]

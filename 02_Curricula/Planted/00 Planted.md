@@ -53,7 +53,7 @@ The curriculum resists a “half story” that begins only with human sin and en
 | [[03 Devil Not Today|2. Devil Not Today]] | What has disordered desire, relationship, and the world? | Genesis 3; Matthew 4 | [[Dartboard]] | [[Grace Truth Matrix]] |
 | [[04 Breakdown Is the Beginning of Breakthrough|3. Breakdown Is the Beginning of Breakthrough]] | What has Jesus done in death and resurrection? | Matthew 26; John 12; 1 Corinthians 15 | [[Storytelling]] | [[Gospel Flow]] |
 | [[05 See the Other Side|4. See the Other Side]] | How does resurrection change what we see now? | Mark 1; Matthew 5–7; John 17 | [[Learning to Handstand in 5 Minutes]] | [[Already Not Yet]] |
-| [[06 From Planted to Plant|5. From Planted to Plant]] | What are we being formed and sent for? | 1 Corinthians 3; Matthew 28; Revelation 22 | [[The Bond]] | [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]; [[PLANT]] |
+| [[06 From Planted to Plant|5. From Planted to Plant]] | What are we being formed and sent for? | 1 Corinthians 3; Matthew 28; Revelation 22 | [[The Bond]] | [[Know Grow Go|Know Grow Go]]; [[PLANT]] |
 
 The core journey begins with [[01 Introduction - The Parable of Sowing Seeds|The Parable of Sowing Seeds]], which introduces [[The Grid]] and the [[Grace Truth Matrix]].
 
@@ -113,9 +113,9 @@ The first looks upward and forward; the second looks outward and sends. Their pr
 - [[Belonging Beholding Becoming]]
 - [[Grace Truth Matrix]]
 - [[Gospel Flow]]
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]
 - [[00 CoJourner Program|CoJourner Program]]
-- [[00 Curricula Library]]
+- [[Curricula_Library|Curricula Library]]
 - [[00 The Garden Project Ministry|The Garden Project]]
 
 ## Source

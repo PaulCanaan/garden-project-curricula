@@ -29,7 +29,7 @@ A framework is a portable model that helps people understand Scripture, discern 
 
 - [[Belonging Beholding Becoming]] — covenant identity, attention to Christ, and Spirit-enabled transformation
 - [[Faith Muscle]] — repeated practices of trust and obedience
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]] — know God, grow into Christlikeness and purpose, and go in love and mission
+- [[Know Grow Go|Know Grow Go]] — know God, grow into Christlikeness and purpose, and go in love and mission
 - [[Embody the Voice]] — bear witness to the Word by seeing, feeling, speaking, living, and hoping
 
 ### Interpretation, discernment, and action
@@ -43,7 +43,7 @@ A framework is a portable model that helps people understand Scripture, discern 
 ### Communal formation
 
 - The conceptual movement Foundation → Frame → Dwelling now lives pedagogically within [[Building A House]].
-- [[Belonging Beholding Becoming]], [[Grace Truth Matrix]], and [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]] frequently combine when designing communal formation.
+- [[Belonging Beholding Becoming]], [[Grace Truth Matrix]], and [[Know Grow Go|Know Grow Go]] frequently combine when designing communal formation.
 
 ## Choosing frameworks by task
 
@@ -55,7 +55,7 @@ A framework is a portable model that helps people understand Scripture, discern 
 | Design formation | [[Belonging Beholding Becoming]], [[Faith Muscle]], [[Garden Framework]], [[Embody the Voice]] |
 | Practice faithful knowing and truth stewardship | [[HABITS]], [[Grace Truth Matrix]], [[Ontology Eschatology Matrix]] |
 | Discern a pastoral or ethical response | [[Grace Truth Matrix]], [[Ontology Eschatology Matrix]] |
-| Plan accompaniment and mission | [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]], [[PLANT]], [[Garden Framework]] |
+| Plan accompaniment and mission | [[Know Grow Go|Know Grow Go]], [[PLANT]], [[Garden Framework]] |
 
 For a curriculum or workshop, prefer one governing story framework, one formation framework, and one action framework rather than stacking every available model.
 
@@ -85,7 +85,7 @@ If the primary value becomes undergoing an experience rather than understanding 
 
 ### Developed
 
-[[Belonging Beholding Becoming]], [[Exodus Road]], [[Faith Muscle]], [[Gospel Flow]], [[Grace Truth Matrix]], [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]], [[PLANT]], [[SOAP]], [[Seed-Form Typology]]
+[[Belonging Beholding Becoming]], [[Exodus Road]], [[Faith Muscle]], [[Gospel Flow]], [[Grace Truth Matrix]], [[Know Grow Go|Know Grow Go]], [[PLANT]], [[SOAP]], [[Seed-Form Typology]]
 
 ### Developing
 
@@ -105,8 +105,8 @@ Maturity describes internal coherence and use. It does not equal ministry approv
 
 ## Operational index
 
-- [[00 Framework Library]] — categorized inventory and maintenance guide
+- [[00_Framework_Library|Framework Library]] — categorized inventory and maintenance guide
 - [[60 Framework Template]] — development form
-- [[Programs MOC]] — embodied expressions
+- [[Programs_MOC|Programs MOC]] — embodied expressions
 - [[Workshops MOC]] — focused formation expressions
 - [[03 Publishing and Stewardship Pipeline]] — publication requirements

@@ -29,7 +29,7 @@ What does a planted person become, and what are we sent to cultivate together?
 ## Program and frameworks
 
 - **Program:** [[The Bond]]
-- **Discipleship framework:** [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- **Discipleship framework:** [[Know Grow Go|Know Grow Go]]
 - **Discernment and action framework:** [[PLANT]]
 
 ## Teaching movements

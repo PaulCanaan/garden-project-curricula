@@ -10,15 +10,15 @@ updated: 2026-07-28
 
 The formation-resource system of [[00 The Garden Project Ministry|The Garden Project]]. This directory is the internal source of truth for resources the ministry develops, pilots, improves, and eventually publishes.
 
-Interpretive map: [[Curricula MOC]]
+Interpretive map: [[Curricula_MOC|Curricula MOC]]
 
 The library turns the Christian Worldview OS into teachable pathways. Theology supplies the substance; frameworks organize insight; programs make ideas experiential; curricula form people over time; workshops create focused entry points; CoJourners help the resources become faithful shared life.
 
 ## Library map
 
-- [[00 Bible Study Curricula|Bible Study Curricula]] — session-based journeys through Scripture and biblical theology
-- [[00 Program Library|Program Library]] — reusable, facilitated experiential-learning activities
-- [[00 Framework Library|Framework Library]] — models for interpretation, discernment, formation, and action
+- [[00_Bible_Study_Curricula|Bible Study Curricula]] — session-based journeys through Scripture and biblical theology
+- [[00_Program_Library|Program Library]] — reusable, facilitated experiential-learning activities
+- [[00_Framework_Library|Framework Library]] — models for interpretation, discernment, formation, and action
 - [[00 Workshop Library|Workshop Library]] — focused learning experiences derived from curricula, programs, and frameworks
 
 ## Relationship to The Garden Project
@@ -63,7 +63,7 @@ See [[02 Ministry Ecosystem]] and [[03 Publishing and Stewardship Pipeline]].
 
 ### Frameworks
 
-- [[Garden Framework]], [[Belonging Beholding Becoming]], [[Grace Truth Matrix]], [[Gospel Flow]], [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]], [[PLANT]], and related tools
+- [[Garden Framework]], [[Belonging Beholding Becoming]], [[Grace Truth Matrix]], [[Gospel Flow]], [[Know Grow Go|Know Grow Go]], [[PLANT]], and related tools
 
 ### Workshops
 

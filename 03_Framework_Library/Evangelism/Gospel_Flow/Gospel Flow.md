@@ -82,7 +82,7 @@ Teaching generosity:
 - [[Gospel]]
 - [[Grace Truth Matrix]]
 - [[Belonging Beholding Becoming]]
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]
 - [[SOAP]]
 - [[Exodus Road]]
 

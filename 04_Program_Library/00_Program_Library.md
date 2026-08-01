@@ -10,7 +10,7 @@ updated: 2026-07-28
 
 Reusable facilitated experiences that help a group encounter, discuss, and embody a theological or formation insight. Programs are modular: they may stand alone or serve a session within a larger workshop, curriculum, or CoJourner pathway.
 
-Interpretive map: [[Programs MOC]]
+Interpretive map: [[Programs_MOC|Programs MOC]]
 
 This is the internal master library. Programs prepared for public use are eventually published through [[00 The Garden Project Ministry|The Garden Project]] under the [[03 Publishing and Stewardship Pipeline]].
 
@@ -69,8 +69,8 @@ Every program should include:
 
 - [[61 Program Template|Program Template]]
 - [[60 Framework Template|Framework Template]]
-- [[00 Framework Library|Framework Library]]
+- [[00_Framework_Library|Framework Library]]
 - [[00 Workshop Library|Workshop Library]]
-- [[00 Curricula Library|Curricula Library]]
+- [[Curricula_Library|Curricula Library]]
 - [[00 The Garden Project Ministry|The Garden Project Ministry]]
-- [[Programs MOC]]
+- [[Programs_MOC|Programs MOC]]

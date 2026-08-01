@@ -79,7 +79,7 @@ A group senses concern for isolated neighbors. They **pray**, **listen** through
 - Discernment
 - [[Mission]]
 - [[Garden Framework]]
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]]
+- [[Know Grow Go|Know Grow Go]]
 - [[Faith Muscle]]
 
 ## Source

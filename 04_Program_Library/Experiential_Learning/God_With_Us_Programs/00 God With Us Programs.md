@@ -27,5 +27,5 @@ Programs in this collection should be:
 
 **Minimal materials. Maximum meaning.**
 
-Related: [[The Church Workshop]], [[00 Program Library]], [[00 Workshop Library]].
+Related: [[The Church Workshop]], [[00_Program_Library|Program Library]], [[00 Workshop Library]].
 

@@ -109,7 +109,7 @@ These headings interpret `development_status`. Every listed program remains `pub
 
 ## Operational index
 
-- [[00 Program Library]] — program inventory, standards, and collections
+- [[00_Program_Library|Program Library]] — program inventory, standards, and collections
 - [[61 Program Template]] — facilitator-ready design form
 - [[Workshops MOC]] — larger formation experiences that may contain programs
 - [[03 Publishing and Stewardship Pipeline]] — public release and stewardship

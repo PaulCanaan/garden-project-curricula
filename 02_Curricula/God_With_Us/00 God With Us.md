@@ -154,4 +154,4 @@ The source document contains an introduction, entrance framework content, a word
 - [[Building A House]]
 - [[T2T]]
 - [[The Church Workshop]]
-- [[Curricula MOC]]
+- [[Curricula_MOC|Curricula MOC]]

@@ -26,7 +26,7 @@ This note records how the synced ChatGPT project source `sources/Planted. Summer
 | Story of the Bible | [[B Full Story of the Bible]] |
 | Seed-Form Typology essay | [[Seed-Form Typology]] |
 | The Grid, Dartboard, Storytelling, Handstand, The Bond | [[00 Planted. Programs]] and the five program masters |
-| Grace Truth Matrix, SOAP, Gospel Flow, Know Grow Go, PLANT | [[00 Framework Library]] and the five framework masters |
+| Grace Truth Matrix, SOAP, Gospel Flow, Know Grow Go, PLANT | [[00_Framework_Library|Framework Library]] and the five framework masters |
 
 ## Visual material interpreted
 
