@@ -68,9 +68,9 @@ Each also needs a governing question, no more than three primary outcomes, a tim
 
 ## Relationship to other artifacts
 
-- [[Programs MOC|Programs]] contribute one memorable experience; they do not carry the whole workshop.
-- [[Frameworks MOC|Frameworks]] organize insight; they do not replace Scripture or practice.
-- [[Curricula MOC|Curricula]] provide sustained journeys; featured workshops enlarge or culminate them.
+- [[Programs_MOC|Programs]] contribute one memorable experience; they do not carry the whole workshop.
+- [[Frameworks_MOC|Frameworks]] organize insight; they do not replace Scripture or practice.
+- [[Curricula_MOC|Curricula]] provide sustained journeys; featured workshops enlarge or culminate them.
 - [[00 CoJourner Program|CoJourners]] help participants connect a workshop to relationship, church, practice, and ongoing accompaniment.
 
 ## Maturity map
@@ -102,5 +102,5 @@ No workshop is yet marked published through The Garden Project.
 
 - [[00 Workshop Library]] — portfolio relationships, statuses, and standards
 - [[55 Workshop Template]] — reusable workshop design form
-- [[Programs MOC]] — program selection and safeguards
+- [[Programs_MOC|Programs MOC]] — program selection and safeguards
 - [[03 Publishing and Stewardship Pipeline]] — publication lifecycle

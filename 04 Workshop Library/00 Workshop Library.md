@@ -84,13 +84,13 @@ Before a workshop is pilot-ready, it should include:
 
 ## Portfolio metadata
 
-Workshops use the two-axis status vocabulary in [[00 Curricula Library]]. When original materials still need import or reconciliation, add `source_status: recovery-needed`; do not substitute source condition for development or publication maturity.
+Workshops use the two-axis status vocabulary in [[Curricula_Library|Curricula Library]]. When original materials still need import or reconciliation, add `source_status: recovery-needed`; do not substitute source condition for development or publication maturity.
 
 ## Create and publish
 
 - [[55 Workshop Template|Workshop Template]]
-- [[00 Program Library|Program Library]]
-- [[00 Framework Library|Framework Library]]
-- [[00 Curricula Library|Curricula Library]]
+- [[00_Program_Library|Program Library]]
+- [[00_Framework_Library|Framework Library]]
+- [[Curricula_Library|Curricula Library]]
 - [[03 Publishing and Stewardship Pipeline]]
 - [[Workshops MOC]]

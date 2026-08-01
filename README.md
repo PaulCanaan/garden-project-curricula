@@ -139,22 +139,18 @@ Primary audience:
 
 ## Repository Structure
 
-This repository may include:
+This repository is organized as:
 
 ```text
-00 About
-01 Planted
-02 Covenant Kingdom and People of God
-03 God With Us
-04 Thus Says the LORD
-05 Workshops
-06 Leader Resources
-07 Framework Library
-08 Program Library
-09 Reading Library
-10 Templates
-11 Shared Assets
-12 Archive
+00_Governance/            Architecture, standards, and theological boundaries
+01_Research_Reservoir/    Shared research organized for curriculum development
+02_Curricula/             Bible-study curricula and curriculum navigation
+03_Framework_Library/     Reusable interpretation and formation frameworks
+04_Program_Library/       Reusable experiential-learning programs
+04 Workshop Library/      Workshops pending final migration review
+05_Scripture_Index/       Generated Scripture-reference indexes
+06_Quality_Gates/         Review and publication standards
+tools/                    Repository maintenance scripts
 ```
 
 Each curriculum may contain:

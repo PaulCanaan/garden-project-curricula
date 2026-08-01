@@ -27,7 +27,7 @@ The workshop completes the fifth movement of *Planted.* without becoming another
 ## Signature relationships
 
 - [[The Bond]] — embodied experience of centralized and interdependent community
-- [[07 Curricula/03 Framework Library/Know Grow Go/Know Grow Go|Know Grow Go]] — discipleship and participation
+- [[Know Grow Go|Know Grow Go]] — discipleship and participation
 - [[PLANT]] — evangelistic attentiveness and action
 - [[00 CoJourner Program|CoJourner]] — ongoing accompaniment and multiplication
 
