@@ -4,7 +4,7 @@ status: active
 domain: workshops
 owner: The Garden Project
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-05
 ---
 
 # Workshops MOC
@@ -33,6 +33,8 @@ They are larger than a single program and more focused than a sustained curricul
 
 - [[Eternity Planted]] — **Where is the Story going?** Kingdom, God's presence, eternal life, and new creation
 - [[From Planted to Plant]] — **What does a planted person become?** Church, vocation, disciple-making, and multiplication
+- [[Rooted Through the Seasons]] — **How does a planted person grow?** Grace and truth over time *(draft from Notion)*
+- [[Every Seed Tells a Story]] — **How do the patterns of Scripture lead to Christ?** Seed-form typology *(draft from Notion)*
 
 These are featured summit experiences, not extra curriculum chapters.
 
@@ -81,6 +83,11 @@ Each also needs a governing question, no more than three primary outcomes, a tim
 - [[From Planted to Plant]]
 - [[Christianity as Counterculture]]
 - [[Forming a Reading Culture]]
+
+### Draft — imported, needs human review
+
+- [[Rooted Through the Seasons]]
+- [[Every Seed Tells a Story]]
 
 ### Developing
 
