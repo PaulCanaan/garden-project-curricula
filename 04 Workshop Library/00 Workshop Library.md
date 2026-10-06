@@ -3,7 +3,7 @@ type: index
 status: active
 owner: The Garden Project
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-05
 ---
 
 # Workshop Library
@@ -39,8 +39,10 @@ The wider family also favors whole-person learning, memorable imagery, prayer, w
 
 - [[Eternity Planted]] — a featured vision workshop asking where the Story is going: Kingdom, heaven and earth, God's presence, eternal life, and new creation
 - [[From Planted to Plant]] — a featured commissioning workshop asking what a planted person becomes: community, vocation, disciple-making, and multiplication
+- [[Rooted Through the Seasons]] — a draft formation workshop on how grace and truth grow a disciple over time, from one seed to a tree and then a forest (imported from Notion 2026-10-05; needs review)
+- [[Every Seed Tells a Story]] — a draft synthesis workshop that teaches participants to trace biblical patterns to Christ with [[Seed-Form Typology]] (imported from Notion 2026-10-05; needs review)
 
-These workshops complete rather than extend the five-movement core. *Eternity Planted* looks upward and forward; *From Planted to Plant* looks outward and sends.
+These workshops complete rather than extend the five-movement core. *Eternity Planted* looks upward and forward; *From Planted to Plant* looks outward and sends. The two Notion drafts assume a 12-session Planted. sequence; their place depends on the structure decision recorded in the [Notion import manifest](../05%20Curriculum%20Research/Source_Library/Notion_2026-10-05/README.md).
 
 ### Covenant, Kingdom, and People of God / Sojourners; — promise and pilgrimage
 

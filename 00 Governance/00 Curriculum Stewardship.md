@@ -30,11 +30,12 @@ General theology and source notes remain in `02 Theology` and `06 Research`; ada
 - [[10 Knowledge Graph Stewardship]] — vault naming, linking, and open-topic conventions
 - [[03 Publishing and Stewardship Pipeline]] — release standards
 
+- [[Decision_Log|Decision log]] — includes the imported human-approved HR-001 decision
+
 ## Open governance topics
 
 - [[Source_Hierarchy|Source hierarchy]]
 - [[Theological_Boundaries|Theological boundaries]]
-- [[Decision_Log|Decision log]]
 - [[Naming_Conventions|Naming conventions]]
 
 ## Earlier architecture
