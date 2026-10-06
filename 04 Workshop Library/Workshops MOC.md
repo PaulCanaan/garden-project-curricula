@@ -68,27 +68,14 @@ Each also needs a governing question, no more than three primary outcomes, a tim
 
 ## Relationship to other artifacts
 
-- [[Programs_MOC|Programs]] contribute one memorable experience; they do not carry the whole workshop.
-- [[Frameworks_MOC|Frameworks]] organize insight; they do not replace Scripture or practice.
-- [[Curricula_MOC|Curricula]] provide sustained journeys; featured workshops enlarge or culminate them.
+- [[Programs MOC|Programs]] contribute one memorable experience; they do not carry the whole workshop.
+- [[Frameworks MOC|Frameworks]] organize insight; they do not replace Scripture or practice.
+- [[Curricula MOC|Curricula]] provide sustained journeys; featured workshops enlarge or culminate them.
 - [[00 CoJourner Program|CoJourners]] help participants connect a workshop to relationship, church, practice, and ongoing accompaniment.
 
 ## Maturity map
 
-### Developing with source recovery needed
-
-- [[Eternity Planted]]
-- [[From Planted to Plant]]
-- [[Christianity as Counterculture]]
-- [[Forming a Reading Culture]]
-
-### Developing
-
-- [[The Exodus Road Workshop]]
-- [[The Church Workshop]]
-- CoJourner Intensive
-
-No workshop is yet marked published through The Garden Project.
+Read each workshop's `development_status`, `publication_status`, and `source_status` in its canonical note. [[00 Workshop Library#Portfolio metadata]] explains source recovery.
 
 ## Development priorities
 
@@ -102,5 +89,5 @@ No workshop is yet marked published through The Garden Project.
 
 - [[00 Workshop Library]] — portfolio relationships, statuses, and standards
 - [[55 Workshop Template]] — reusable workshop design form
-- [[Programs_MOC|Programs MOC]] — program selection and safeguards
+- [[Programs MOC|Programs MOC]] — program selection and safeguards
 - [[03 Publishing and Stewardship Pipeline]] — publication lifecycle
